@@ -1,0 +1,21 @@
+.image {
+    filter: brightness(50%);
+}
+.btn1{
+    background-color: #E0B973;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    color: white;
+}
+
+
+@media(orientation:portrait){
+    .card{
+        width: 100%;
+    }
+
+}
+
+
