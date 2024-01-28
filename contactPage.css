@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
 .cnt{
 
     background-color: #14274A;
@@ -36,4 +37,8 @@
     border: #E0B973 2px solid;
     background-color:#14274A ;
 }
+body{
+    overflow-x: hidden;
+  }
+  
 

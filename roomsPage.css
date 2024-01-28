@@ -21,6 +21,9 @@
     padding-left: 100px;
     padding-right: 100px;
   }
+  .pp{
+    text-align: justify;
+  }
   .btnEmail{
     background-color: #E0B973;
     border: none;
@@ -31,6 +34,10 @@
     border: #E0B973 2px solid;
     background-color:#14274A ;
 }
+body{
+    overflow-x: hidden;
+  }
+  
 @media(orientation:portrait){
     .card{
         width: 100%;

@@ -28,3 +28,26 @@
     border: #E0B973 2px solid;
     background-color:#14274A ;
 }
+body{
+  overflow-x: hidden;
+}
+
+@media(orientation:portrait){
+  .btn1{
+      background-color: #E0B973;
+      border: none;
+      border-radius: 10px;
+      width: 100px;
+      height: 40px;
+      color: white;
+      font-size: 12px;
+  }
+  .div-section2{
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+  .footer{
+      margin-left: 20px;
+  }
+
+}

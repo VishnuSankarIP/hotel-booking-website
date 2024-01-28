@@ -41,6 +41,9 @@
     text-transform: uppercase;
  
   }
+  body{
+    overflow-x: hidden;
+  }
   
 
   
