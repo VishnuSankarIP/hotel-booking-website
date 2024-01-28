@@ -1,4 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+.cnt{
+
+    background-color: #14274A;
+    color: white;
+    font-size: 40px;
+    height: 100px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+   
+}
+.p1{
+    font-size: 30px;
+}
 .btn1{
     font-family: monospace;
     background-color: #E0B973;
@@ -14,10 +26,6 @@
     box-shadow: 0 0 0 5px #b3bcca5f;
     color: #fff;
   }
-  .para{
-    padding-left: 100px;
-    padding-right: 100px;
-  }
   .btnEmail{
     background-color: #E0B973;
     border: none;
@@ -28,3 +36,4 @@
     border: #E0B973 2px solid;
     background-color:#14274A ;
 }
+
